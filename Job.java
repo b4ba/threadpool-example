@@ -1,3 +1,4 @@
+//This is the Job.java file from Workshop 4 of ECM2414
 public class Job implements Runnable {
 	private int jobNumber;
 
